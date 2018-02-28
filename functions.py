@@ -15,3 +15,7 @@ def funct3(x,y):
 
 c = funct3(4,6)
 print(c)
+
+
+# import certain function from module format below
+# from module import function
