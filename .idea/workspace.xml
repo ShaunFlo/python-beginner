@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="113aa68c-70ed-4ad8-ac80-a9fd41559179" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/classes.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/elifs.py" afterPath="$PROJECT_DIR$/elifs.py" />
-      <change beforePath="$PROJECT_DIR$/functions.py" afterPath="$PROJECT_DIR$/functions.py" />
-      <change beforePath="$PROJECT_DIR$/lists.py" afterPath="$PROJECT_DIR$/lists.py" />
-    </list>
+    <list default="true" id="113aa68c-70ed-4ad8-ac80-a9fd41559179" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
