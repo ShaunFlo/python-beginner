@@ -11,9 +11,12 @@ print(d)
 d["shaun"] = 23
 print(d)
 
-# keys usually strings or numbers
-
+# loop through dictionary
 for key, value in d.items():
     print("key: " + key + ", the value is ")
     print(value)
 
+
+# del dictName["key"] to delete
+# OR
+# .pop["key"]

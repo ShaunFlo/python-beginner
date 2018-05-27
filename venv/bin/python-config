@@ -1,4 +1,4 @@
-#!/Users/shaunflo/PycharmProjects/beginner/venv/bin/python
+#!/Users/shaunflo/venv2/bin/python
 
 import sys
 import getopt
